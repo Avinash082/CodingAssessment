@@ -1,0 +1,9 @@
+#SideNavDiv{
+    background-color: black;
+}
+
+#SideNavDiv2{
+    column-span: 3;
+    background-color: black;
+    padding-left: 2;
+}
